@@ -1,5 +1,6 @@
-package com.leaderus.cache.disruptor_demo;
+package com.leaderus.cache.disruptor_demo.oldmode;
 
+import com.leaderus.cache.disruptor_demo.oldmode.LongEvent;
 import com.lmax.disruptor.EventHandler;
 
 /**

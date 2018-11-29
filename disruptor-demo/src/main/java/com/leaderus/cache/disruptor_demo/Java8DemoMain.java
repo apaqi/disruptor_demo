@@ -1,5 +1,6 @@
 package com.leaderus.cache.disruptor_demo;
 
+import com.leaderus.cache.disruptor_demo.oldmode.LongEvent;
 import com.lmax.disruptor.RingBuffer;
 import com.lmax.disruptor.dsl.Disruptor;
 

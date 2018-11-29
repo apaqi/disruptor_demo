@@ -4,7 +4,7 @@ import java.nio.ByteBuffer;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadFactory;
 
-import com.leaderus.cache.disruptor_demo.LongEvent;
+import com.leaderus.cache.disruptor_demo.oldmode.LongEvent;
 import com.lmax.disruptor.RingBuffer;
 import com.lmax.disruptor.dsl.Disruptor;
 
